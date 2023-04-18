@@ -1,0 +1,1 @@
+SELECT * FROM student1.4119student;
