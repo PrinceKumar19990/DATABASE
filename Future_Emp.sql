@@ -1,0 +1,6 @@
+create table  CUSTOMER (cust_id varchar(5),Fname varchar(15),Lname varchar(15), 
+area char(2), phone number (10), dob date, payment number(6,2),
+sphone bigint(11) not null unique,
+semail varchar(30) not null unique,
+sadd varchar(50),
+squalifiation varchar(10) not null,
